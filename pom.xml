@@ -7,6 +7,8 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
+<!-- Qa -->
+
 	</parent>
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>conflict-2</artifactId>
